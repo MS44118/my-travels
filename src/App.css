@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+figure {
+  width: 80%;
+}
+
+figcaption {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption blockquote{
+  font-size: 5em;
+}
+
+figcaption cite{
+  font-size: 4em;
+}
+
+figcaption p{
+  font-size: 3em;
+  font-style: oblique;
+}
