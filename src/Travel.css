@@ -1,0 +1,26 @@
+.Travels{
+    text-align: center;
+    width: 100%;
+}
+
+.Travels figure {
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Travels figcaption blockquote{
+font-size: 3em;
+}
+
+.Travels figcaption cite{
+font-size: 1em;
+}
+
+.Travels figcaption p{
+font-size: 0.8em;
+font-style: oblique;
+}
+
+.Travels img{
+    width: 100%;
+}
